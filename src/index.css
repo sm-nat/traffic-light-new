@@ -1,0 +1,14 @@
+:root {
+  background-color: #73a4cf;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  padding-left: 250px;
+}
+
+
